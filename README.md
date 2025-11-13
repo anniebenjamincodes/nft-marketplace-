@@ -15,5 +15,5 @@ A simple NFT marketplace built with Solidity and React.
 - Web3.js
 
 ## Author
-Nosa Anna Benjamin
+ Anna Benjamin
 NFT Developer | Lagos, Nigeria
